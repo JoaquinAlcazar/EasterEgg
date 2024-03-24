@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<characters>
+  <Character>
+    <Name>1</Name>
+    <Level>1</Level>
+    <Health>1</Health>
+    <Atk>1</Atk>
+    <Def>1</Def>
+    <Spd>1</Spd>
+  </Character>
+  <Character>
+    <Name>1</Name>
+    <Level>1</Level>
+    <Health>1</Health>
+    <Atk>1</Atk>
+    <Def>1</Def>
+    <Spd>1</Spd>
+  </Character>
+  <Character>
+    <Name>2</Name>
+    <Level>1</Level>
+    <Health>2</Health>
+    <Atk>2</Atk>
+    <Def>2</Def>
+    <Spd>2</Spd>
+  </Character>
+  <Character>
+    <Name>3</Name>
+    <Level>1</Level>
+    <Health>10</Health>
+    <Atk>10</Atk>
+    <Def>10</Def>
+    <Spd>10</Spd>
+  </Character>
+</characters>

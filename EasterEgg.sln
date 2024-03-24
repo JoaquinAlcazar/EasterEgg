@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasterEgg", "EasterEgg\EasterEgg.csproj", "{AEDF24DC-A4C6-4823-891A-B328D1873A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEDF24DC-A4C6-4823-891A-B328D1873A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDF24DC-A4C6-4823-891A-B328D1873A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDF24DC-A4C6-4823-891A-B328D1873A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDF24DC-A4C6-4823-891A-B328D1873A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E689182-5B2E-4C18-9473-C5CE4426A9EC}
+	EndGlobalSection
+EndGlobal
